@@ -45,11 +45,11 @@
     "typescript": "^4.0.3"
   },
   "dependencies": {
+    "node-fetch": "^2.6.0",
     "form-data": "^3.0.0",
     "into-stream": "^6.0.0"
   },
   "peerDependencies": {
-    "@js-joda/core": "^3.0.0",
-    "node-fetch": "^2.6.0"
+    "@js-joda/core": "^3.0.0"
   }
 }
