@@ -1,6 +1,6 @@
 {
   "name": "@dylburger/fm-data-api-client",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "FileMaker Data API Client",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -46,10 +46,8 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.0",
+    "@js-joda/core": "^3.0.0",
     "form-data": "^3.0.0",
     "into-stream": "^6.0.0"
-  },
-  "peerDependencies": {
-    "@js-joda/core": "^3.0.0"
   }
 }
