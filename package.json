@@ -1,5 +1,5 @@
 {
-  "name": "fm-data-api-client",
+  "name": "@dylburger/fm-data-api-client",
   "version": "1.1.0",
   "description": "FileMaker Data API Client",
   "main": "lib/index.js",
